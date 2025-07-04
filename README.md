@@ -11,6 +11,12 @@ The dataset contains 1,465 rows and 16 columns, including product details, custo
  - Microsoft Excel [Download here](https://apps.apple.com/us/app/microsoft-excel/id586683407)
  - Calculated column
  - Pivot table
+### *Data Cleaning and Preparation*
+ - Out of the the 1465 rows 114 were duplicate and were removed using the product id column
+ - Black cells in the rating count column were replaced with zero(0)
+ - The category column was split using the stroke (|) delimeter
+ - The dataset set were convert to table range after cleaning
+ - Some calculated column were added to be able to carry out the given task
 ### *Analysis Tasks*
  - The project involves various analysis tasks, including;
 
