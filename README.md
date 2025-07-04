@@ -42,3 +42,7 @@ The dataset contains 1,465 rows and 16 columns, including product details, custo
  - Categories with highest discounts
 
  - Top 5 products in terms of rating and number of reviewed combined
+
+### *My Analysis*
+<img width="613" alt="excel dashboard" src="https://github.com/user-attachments/assets/17dda0c0-22de-4609-b16c-59692c6c2791" />
+
