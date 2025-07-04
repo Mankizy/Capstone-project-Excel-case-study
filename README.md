@@ -7,4 +7,3 @@
 #### The data were given by Digital SkillUp Africa in 'CSV' Comma separated value format
 ### *Tools Used*
 #### Microsoft Excel [Download here](https://apps.apple.com/us/app/microsoft-excel/id586683407)
-#### 
