@@ -17,6 +17,7 @@ The dataset contains 1,465 rows and 16 columns, including product details, custo
  - The category column was split using the stroke (|) as delimeter
  - The dataset set were convert to table range after cleaning
  - Some calculated column were added to be able to carry out the given task
+ - The total number of columns from which the analysis draw from were 26
 ### *Analysis Tasks*
  - The project involves various analysis tasks, including;
 
