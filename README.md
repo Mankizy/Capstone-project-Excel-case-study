@@ -45,4 +45,3 @@ The dataset contains 1,465 rows and 16 columns, including product details, custo
 
 ### *My Analysis*
 <img width="613" alt="excel dashboard" src="https://github.com/user-attachments/assets/17dda0c0-22de-4609-b16c-59692c6c2791" />
-
